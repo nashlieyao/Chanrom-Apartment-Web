@@ -724,7 +724,7 @@
     }
     /* Header */
     .menu_side_wrap .logo {
-        padding: 55% 8%;
+        padding: 5%;
     }
     .toc_menu_item .toc_menu_icon {
         height: 7.2rem;
@@ -3516,7 +3516,7 @@
         left: -6rem;
     }
     .menu_side_wrap .logo {
-        padding: 40% 8%;
+        padding: 5%;
     }
     .toc_menu_item .toc_menu_icon,
     .toc_menu_item .toc_menu_description:before {

@@ -58,7 +58,7 @@ var WINDSOR_STORAGE = {
     "menu_hover":"fade",
     "menu_hover_color":"#ffffff",
     "button_hover":"slide_top",
-    "alter_link_color":"#3fb9be"
+    "alter_link_color":"#027800"
 };
 
 /* Tribe Events */
