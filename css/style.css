@@ -2732,8 +2732,8 @@ body:not(.expand_content):not(.body_style_fullwide):not(.body_style_fullscreen) 
 .logo img {
     display: inline-block;
     margin: 0;
-    max-width: 100%;
-    max-height: 4.4em;
+    /* max-width: 100%;
+    max-height: 4.4em; */
     width: auto;
 }
 
@@ -3233,7 +3233,7 @@ body.menu_style_right {
 }
 
 .menu_side_wrap .logo {
-    padding: 47% 10%;
+    /* padding: 47% 10%; */
     text-align: center;
 }
 
@@ -15475,51 +15475,51 @@ label.required .sc_form_field_title:after {
 }
 
 .slider_image_1 {
-    background-image: url(../images/reception.jpg);
+    background-image: url(../images/ai_1.png);
 }
 
 .slider_image_2 {
-    background-image: url(../images/hallway.jpg);
+    background-image: url(../images/front_flower.jpg);
 }
 
 .slider_image_3 {
-    background-image: url(../images/bedroom.jpg);
+    background-image: url(../images/bg_header.jpg);
 }
 
 .slider_image_4 {
-    background-image: url(../images/toilet_2.jpg);
+    background-image: url(../images/reception.jpg);
 }
 
 .slider_image_5 {
-    background-image: url(../images/toilet_1.jpg);
+    background-image: url(../images/hallway.jpg);
 }
 
 .slider_image_6 {
-    background-image: url(../images/toilet_1.jpg);
+    background-image: url(../images/bedroom.jpg);
 }
 
 .slider_image_7 {
-    background-image: url(../images/image_11-1170x658.jpg);
+    background-image: url(../images/toilet_1.jpg);
 }
 
 .slider_image_8 {
-    background-image: url(../images/image_06-1170x658.jpg);
+    background-image: url(../images/toilet_2.jpg);
 }
 
 .slider_image_9 {
-    background-image: url(../images/image_09-1170x658.jpg);
+    background-image: url(../images/video_entrance.png);
 }
 
 .slider_image_10 {
-    background-image: url(../images/image_08-370x208.jpg);
+    background-image: url(../images/korat_video_levels_img.png);
 }
 
 .slider_image_11 {
-    background-image: url(../images/image_04-370x208.jpg);
+    background-image: url(../images/korat_corridor_img.png);
 }
 
 .slider_image_12 {
-    background-image: url(../images/image_12-370x208.jpg);
+    background-image: url(../images/korat_room_img.png);
 }
 
 .slider_image_13 {
@@ -15570,10 +15570,11 @@ label.required .sc_form_field_title:after {
 }
 
 .bg_image_3 {
-    background-image: url(../images/bg_services.jpg);
+    background-image: url(../images/walkway_wc.jpg);
     background-position: center;
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: contain;
+    background-color: #13162b;
 }
 
 .bg_image_4 {
@@ -15675,3 +15676,4 @@ label.required .sc_form_field_title:after {
 .custom_left {
     float: right;
 }
+
